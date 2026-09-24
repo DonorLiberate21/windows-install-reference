@@ -39,19 +39,13 @@
 
 2026-ൽ പല KMS ടൂളുകളും ലഭ്യമാണ്. എന്നാൽ ഇത് വ്യത്യസ്തമാണ് — ഇത് കൂടുതൽ സ്ഥിരതയുള്ളതും സുരക്ഷിതവുമാണ്. KMS സെർവർ പ്രവർത്തനക്ഷമത, ഓഫ്‌ലൈൻ ആക്ടിവേഷൻ, ഓട്ടോ റിന്യൂവൽ — ഇവയെല്ലാം ഇതിൽ ഉൾപ്പെടുന്നു.
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="ഒറ്റ ക്ലിക്ക് ആക്ടിവേഷൻ" src="cards/card-01.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="KMS സാങ്കേതികവിദ്യ" src="cards/card-02.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="സ്ഥിര ലൈസൻസ്" src="cards/card-03.svg" />
-</td>
-</tr>
-</table>
+
+
+  <img width="320" height="280" alt="deepseek_svg_20260924_595003" src="https://github.com/user-attachments/assets/c6b0de2c-6d38-4000-abc9-4c8de604a4c7" />
+
+
+  <img width="320" height="280" alt="deepseek_svg_20260924_c0a909" src="https://github.com/user-attachments/assets/2d1a409c-1306-49ad-8e84-c1a34b9d5528" />
+
 
 ---
 
